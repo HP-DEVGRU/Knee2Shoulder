@@ -9,7 +9,11 @@
 
 ### Goal : Top 100
 
+## Tutoral
+
 ## Reference
 
 [Kaggle - stock prediction with news data](https://www.kaggle.com/c/two-sigma-financial-news)  
 
+![image](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99628A445C04ECB72A)
+파이썬과 케라스를 이용한 딥러닝/강화학습,주식투자
